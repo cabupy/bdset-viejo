@@ -1,0 +1,23 @@
+{
+  "name": "bdset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "download": "^6.2.5",
+    "express": "^4.15.4",
+    "morgan": "^1.8.2",
+    "pg-escape": "^0.2.0",
+    "pg-native": "^2.2.0",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4"
+  }
+}
